@@ -1,0 +1,9 @@
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\bin\Debug\TddDemo.DataAccess.dll
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\bin\Debug\TddDemo.DataAccess.pdb
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\obj\Debug\TddDemo.DataAccess.csproj.CoreCompileInputs.cache
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\obj\Debug\TddDemo.DataAccess.dll
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\obj\Debug\TddDemo.DataAccess.pdb
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\bin\Debug\TddDemo.Entities.dll
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\bin\Debug\TddDemo.Entities.pdb
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\obj\Debug\TddDemo.DataAccess.csprojAssemblyReference.cache
+D:\TddDevelopment\TddDemo\TddDemo.DataAccess\obj\Debug\TddDemo.DataAccess.csproj.CopyComplete

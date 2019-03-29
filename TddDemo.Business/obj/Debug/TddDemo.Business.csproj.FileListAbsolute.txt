@@ -1,0 +1,11 @@
+D:\TddDevelopment\TddDemo\TddDemo.Business\bin\Debug\TddDemo.Business.dll
+D:\TddDevelopment\TddDemo\TddDemo.Business\bin\Debug\TddDemo.Business.pdb
+D:\TddDevelopment\TddDemo\TddDemo.Business\bin\Debug\TddDemo.Entities.dll
+D:\TddDevelopment\TddDemo\TddDemo.Business\bin\Debug\TddDemo.Entities.pdb
+D:\TddDevelopment\TddDemo\TddDemo.Business\obj\Debug\TddDemo.Business.csprojAssemblyReference.cache
+D:\TddDevelopment\TddDemo\TddDemo.Business\obj\Debug\TddDemo.Business.csproj.CoreCompileInputs.cache
+D:\TddDevelopment\TddDemo\TddDemo.Business\obj\Debug\TddDemo.Business.csproj.CopyComplete
+D:\TddDevelopment\TddDemo\TddDemo.Business\obj\Debug\TddDemo.Business.dll
+D:\TddDevelopment\TddDemo\TddDemo.Business\obj\Debug\TddDemo.Business.pdb
+D:\TddDevelopment\TddDemo\TddDemo.Business\bin\Debug\TddDemo.DataAccess.dll
+D:\TddDevelopment\TddDemo\TddDemo.Business\bin\Debug\TddDemo.DataAccess.pdb

@@ -1,0 +1,6 @@
+D:\TddDevelopment\TddDemo\TddDemo.Entities\bin\Debug\TddDemo.Entities.dll
+D:\TddDevelopment\TddDemo\TddDemo.Entities\bin\Debug\TddDemo.Entities.pdb
+D:\TddDevelopment\TddDemo\TddDemo.Entities\obj\Debug\TddDemo.Entities.csprojAssemblyReference.cache
+D:\TddDevelopment\TddDemo\TddDemo.Entities\obj\Debug\TddDemo.Entities.csproj.CoreCompileInputs.cache
+D:\TddDevelopment\TddDemo\TddDemo.Entities\obj\Debug\TddDemo.Entities.dll
+D:\TddDevelopment\TddDemo\TddDemo.Entities\obj\Debug\TddDemo.Entities.pdb
